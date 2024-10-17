@@ -1,6 +1,6 @@
 # Chapter 9/Three_Restaurants.py
 
-class Restaurant:
+class Restaurant():
 
 
     def __init__(self, restaurant_name, cuisine_type):

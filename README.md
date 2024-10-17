@@ -5,4 +5,6 @@ The material in the book is also explained in [Youtube](https://www.youtube.com/
 
 The author provided the codes used in the book (3rd edition) in [Github](https://github.com/ehmatthes/pcc_3e).
 
+The author also provided solutions to exercises set out in the _third edition_ in [Github](https://ehmatthes.github.io/pcc_3e/solutions/).
+
 The author also provided solutions to exercises set out in the _second edition_ in [Github](https://ehmatthes.github.io/pcc_2e/solutions/solutions/).

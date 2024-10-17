@@ -1,6 +1,6 @@
 rivers = {
     'jordan river': 'lebanon',
-    'nile': 'ethipoia',
+    'nile': 'ethiopia',
     'ganges': 'bangladesh',
     'yellow river': 'china',
     'yangtze river': 'china',

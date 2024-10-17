@@ -1,6 +1,6 @@
 # Chapter 2/Name_Cases.py
 
-Friend_Name = "tom sawyer" 
-print(Friend_Name.lower())
-print(Friend_Name.upper())
-print(Friend_Name.title())
+friend_name = "tom sawyer" 
+print(friend_name.lower())
+print(friend_name.upper())
+print(friend_name.title())

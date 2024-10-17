@@ -2,7 +2,7 @@
 
 pizzas = ['Cheese Pizza', 'Veggie Pizza', 'Pepperoni Pizza']
 
-print("This is my orginal pizzas list:")
+print("This is my original pizzas list:")
 for pizza in pizzas:
     print(f"{pizza}")
 

@@ -20,12 +20,20 @@ class Restaurant():
         
     def increment_number_served(self, additional_served):
         self.number_served += additional_served
+    
+    """
+        next steps:
+        init parents def
+        super (copy) parents def without self
+        add attribute or attributes for new class (self.xxxx =)
+        define to show the new attribute
+    """
         
 class Ice_Cream_Stand(Restaurant): # name of parent class in brackets
     
     def __init__(self, restaurant_name, cuisine_type='ice cream'):
         super().__init__(restaurant_name, cuisine_type) # no need to mention self again
-        self.flavors = [] # define self.xxx like the mother
+        self.flavors = [] # define self.xxx like the mother, add an attribute flavors
         
     def show_favors(self):
         print("\nWe have the following flavors available:")
